@@ -8,6 +8,7 @@ import { MovieCard } from './components/MovieCard';
 
 import { api } from './services/api';
 
+
 import './styles/global.scss';
 
 import './styles/sidebar.scss';
